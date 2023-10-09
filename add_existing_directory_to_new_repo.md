@@ -1,3 +1,21 @@
+Github instructions:
+```
+echo "# ENPM808x_valgrind_ex" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:muditsingal/ENPM808x_valgrind_ex.git
+git push -u origin main
+```
+
+## Push an existing repo from command line
+```
+git remote add origin git@github.com:muditsingal/ENPM808x_valgrind_ex.git
+git branch -M main
+git push -u origin main
+```
+
 # Clone any Git repository and add it to your GitHub
 
 
